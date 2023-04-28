@@ -48,7 +48,7 @@ function App() {
           pageSizeValue: pageSizeValue,
         }}
         onPageChange={pageChange}
-        style={{ height: "400px", margin: "200px 0" }}
+        style={{ height: "400px", margin: "100px 0" }}
         sortable={true}
         pageSize={5}
       >
